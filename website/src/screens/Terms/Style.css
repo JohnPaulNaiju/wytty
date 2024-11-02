@@ -1,0 +1,34 @@
+#term-body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding-left: 26px;
+    padding-bottom: 200px;
+    background-image: url('../../assets/images/bg1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#title{
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 26px;
+    margin-top: 56px;
+}
+#sub-title{
+    font-weight: bold;
+    color: #EEEEEE;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 26px;
+    margin-top: 26px;
+}
+#conditions-text{
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 26px;
+    margin-top: 6px;
+}

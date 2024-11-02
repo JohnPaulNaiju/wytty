@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "FW2PL9YPXR.com.aixinc.wytty",
+                "paths": [
+                    "/tribe/*",
+                    "/invite/*",
+                    "/note/*"
+                ]
+            }
+        ]
+    },
+    "activitycontinuation": {
+        "apps": ["FW2PL9YPXR.com.aixinc.wytty"]
+    },
+    "webcredentials": {
+        "apps": ["FW2PL9YPXR.com.aixinc.wytty"]
+    }
+}

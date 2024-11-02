@@ -1,0 +1,20 @@
+.section{
+    background-image: url('../../assets/images/bg1.png');
+    background-size: contain;
+    background-repeat: repeat;
+}
+.hero-text, .hero-text-blur{
+    font-size: 7vw;
+    background-image: linear-gradient(to right, #FD6B94, #FF47AF, #F742C8, #CF2DFA, #7A1DFC, #561BEE) !important;
+}
+#section1-p1{
+    font-size: 5vw !important;
+}
+.trusted-no, .title{
+    background-image: linear-gradient(to right, #FD6B94, #FF47AF, #F742C8, #CF2DFA, #7A1DFC, #561BEE) !important;
+}
+#wytty-title{
+    font-size: 24px;
+    font-family: 'Rubik Doodle Shadow';
+    color: #000000;
+}

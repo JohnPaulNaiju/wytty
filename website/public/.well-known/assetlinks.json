@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.aixinc.wytty",
+            "sha256_cert_fingerprints": [
+                "C8:DF:89:04:25:88:8D:01:C1:EB:1D:31:4E:48:DD:F3:86:F7:7B:93:2D:7F:D2:E9:9F:A4:AB:DC:64:C0:A2:DB"
+            ]
+        }
+    }
+]

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0f11c79.css",
+    "main.js": "/static/js/main.b247ff51.js",
+    "static/media/bg2.png": "/static/media/bg2.3c497682c7beb934ad57.png",
+    "static/media/bg6.png": "/static/media/bg6.3e8d9d7972227a09ad85.png",
+    "static/media/bg5.png": "/static/media/bg5.0d41cab28322f0411f74.png",
+    "static/media/bg4.png": "/static/media/bg4.cc78fbfed3c58fd7063d.png",
+    "static/media/bg3.png": "/static/media/bg3.62ebfa036ac53ef74f1a.png",
+    "static/media/bg1.png": "/static/media/bg1.4beff7b40298f7d71880.png",
+    "static/media/cinema.png": "/static/media/cinema.a3b88904746835dce772.png",
+    "static/media/ai.jpg": "/static/media/ai.7aeb55c8c0e536bce7ce.jpg",
+    "static/media/bg7.png": "/static/media/bg7.db90d4c9568e4b652fad.png",
+    "static/media/blender.png": "/static/media/blender.e0717a72311e48af3122.png",
+    "static/media/react.png": "/static/media/react.e71f4c5b0c4306d65355.png",
+    "static/media/fourwheeler.jpg": "/static/media/fourwheeler.daf4e5a035b31942b397.jpg",
+    "static/media/gdev.png": "/static/media/gdev.8dec1e15a2acab1aed7c.png",
+    "index.html": "/index.html",
+    "static/media/football.webp": "/static/media/football.4320b9e00c07960fa2ea.webp",
+    "main.c0f11c79.css.map": "/static/css/main.c0f11c79.css.map",
+    "main.b247ff51.js.map": "/static/js/main.b247ff51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f11c79.css",
+    "static/js/main.b247ff51.js"
+  ]
+}

@@ -3,3 +3,4 @@ Wytty: Community based Social App I created as a startup and unfortunately faile
 
 
 Created with React Native and Firebase
+Includes website, frontend and server code.

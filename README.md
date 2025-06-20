@@ -1,4 +1,4 @@
-# Wytty: A Community-Driven Social Experience 🌐
+# Wytty: A Community-Driven Social Networking App 🌐
 
 Wytty was an ambitious project — a **community-based social networking app** that I spearheaded as part of a startup venture. While the startup itself didn't achieve commercial success due to a valuable learning curve in entrepreneurship, the underlying software is a testament to what can be built with passion and dedication. The core application functions perfectly, and looking back, I can always envision ways to enhance it further!
 

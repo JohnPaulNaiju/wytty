@@ -39,3 +39,9 @@ My experience with Wytty Platforms was invaluable. It taught me extensively abou
 Please note that Wytty is currently **not hosted live** (wwas once hosted in App store and Play store). The provided codebases for the mobile app, website frontend, and server logic are available within the repository for review.
 
 ### Visuals 📸🎬
+
+
+
+https://github.com/user-attachments/assets/50ee15be-b7a1-4990-8397-c240785521c3
+
+

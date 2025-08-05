@@ -1,4 +1,6 @@
-# Wytty: A Community-Driven Social Networking App 🌐<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/91e9af28-dc96-4dec-a137-c7237396df34" />
+<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/91e9af28-dc96-4dec-a137-c7237396df34" />
+
+# Wytty: A Community-Driven Social Networking App 🌐
 
 
 Wytty was an ambitious project — a **community-based social networking app** that I spearheaded as part of a startup venture. While the startup itself didn't achieve commercial success due to a valuable learning curve in entrepreneurship, the underlying software is a testament to what can be built with passion and dedication. The core application functions perfectly, and looking back, I can always envision ways to enhance it further!

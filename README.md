@@ -39,7 +39,7 @@ My experience with Wytty Platforms was invaluable. It taught me extensively abou
 
 ### Prizes & Recognition 🏆
 
-* **1st Prize, Horuss Productathon:** We were incredibly proud to secure **1st prize** in the highly competitive Horuss Productathon, organized by GDSC GECT, validating our technical achievements and problem-solving approach.
+* **1st Prize, Horuss Productathon:** We were incredibly proud to secure **1st prize** in the highly competitive Horuss Productathon, organized by GDSC GECT, validating our technical achievements and problem-solving approach. [See here](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/JOHN%20PAUL%20NAIJU(1).jpg)
 
 * **IEDC Summit Presentation:** Wytty was successfully **presented at the prestigious 2023 IEDC Summit in CET**, where we showcased our innovative social application to a wider audience and gained valuable insights.
 

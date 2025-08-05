@@ -61,3 +61,19 @@ https://github.com/user-attachments/assets/50ee15be-b7a1-4990-8397-c240785521c3
 ![WhatsApp Image 2025-06-20 at 7 09 28 PM](https://github.com/user-attachments/assets/af186cfe-724c-4f71-9bb6-fddbf00b6fda)
 ![WhatsApp Image 2025-06-20 at 7 09 28 PM-2](https://github.com/user-attachments/assets/cef51ee3-6f12-4efd-b032-bd9308de34e5)
 ![WhatsApp Image 2025-06-20 at 7 09 27 PM](https://github.com/user-attachments/assets/e02ed61a-bb72-47ec-a29d-72c604ad08f9)
+
+### Requirements:
+
+- NodeJS
+- Firebase CLI
+- Expo and EAS CLI
+
+### Step by step guide to make project run
+
+1. Create firebase project and enable auth, firestore, storage, cloud functions.
+2. Run npm install for the app code.
+3. Since code is old there will be breaking changes.
+4. Fix the issues and run in expo go app.
+5. Use AI tools vro!
+
+## Thank you :)

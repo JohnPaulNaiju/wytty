@@ -74,6 +74,6 @@ https://github.com/user-attachments/assets/50ee15be-b7a1-4990-8397-c240785521c3
 2. Run npm install for the app code.
 3. Since code is old there will be breaking changes.
 4. Fix the issues and run in expo go app.
-5. Use AI tools vro!
+5. Just use AI for the rest 🤷‍♂️
 
 ## Thank you :)
